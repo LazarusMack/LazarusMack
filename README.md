@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LazarusMack
 - 👀 I’m interested in all things geek-tasktic
 - 🌱 I’m currently learning to master Midjourney
-- 💞️ I’m looking to collaborate on my posse embracing GitHub CopilotX
+- 💞️ I’m looking to collaborate with my posse embracing GitHub CopilotX
 - 📫 How to reach me ... That's classified
 
 <!---
